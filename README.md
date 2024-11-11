@@ -1,2 +1,2 @@
 # RekayasaDesain
-Belajar github minggu ke 7
+Belajar Github minggu ke 7
